@@ -15,7 +15,8 @@ namespace devdeer.StringHandlingPipeline.Logic.Core.BaseTypes
 
         public void Transform(string message, List<int> transformationIDs)
         {
-            InternalTransform(message, transformationIDs);
+            var transformedMessage = $"{message} was transformed with following Transformers: {transformationIDs}";
+            InternalTransform(transformedMessage, transformationIDs);
         }
 
         #endregion
