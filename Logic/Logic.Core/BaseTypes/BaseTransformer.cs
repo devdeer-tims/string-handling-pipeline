@@ -11,6 +11,12 @@ namespace devdeer.StringHandlingPipeline.Logic.Core.BaseTypes
     /// </summary>
     public abstract class BaseTransformer : ITransformer
     {
+        #region member vars
+
+        public string CurrentMessage = string.Empty;
+
+        #endregion
+
         #region explicit interfaces
 
         public void Transform(string message, List<int> transformationIDs)
