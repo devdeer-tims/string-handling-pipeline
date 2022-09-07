@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "StringHandlingPipeling.Logic.Common/1.0.0": {
+        "runtime": {
+          "StringHandlingPipeling.Logic.Common.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StringHandlingPipeling.Logic.Common/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Transformers/bin/Debug/net6.0/StringHandlingPipeling.Logic.Transformers.deps.json
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Transformers/bin/Debug/net6.0/StringHandlingPipeling.Logic.Transformers.dll
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Transformers/bin/Debug/net6.0/StringHandlingPipeling.Logic.Transformers.pdb
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Transformers/bin/Debug/net6.0/StringHandlingPipeling.Logic.Common.dll
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Transformers/bin/Debug/net6.0/StringHandlingPipeling.Logic.Core.dll
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Transformers/bin/Debug/net6.0/StringHandlingPipeling.Logic.Core.pdb
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Transformers/bin/Debug/net6.0/StringHandlingPipeling.Logic.Common.pdb
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Transformers/obj/Debug/net6.0/Logic.Transformers.csproj.AssemblyReference.cache
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Transformers/obj/Debug/net6.0/Logic.Transformers.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Transformers/obj/Debug/net6.0/Logic.Transformers.AssemblyInfoInputs.cache
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Transformers/obj/Debug/net6.0/Logic.Transformers.AssemblyInfo.cs
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Transformers/obj/Debug/net6.0/Logic.Transformers.csproj.CoreCompileInputs.cache
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Transformers/obj/Debug/net6.0/Logic.Transformers.csproj.CopyComplete
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Transformers/obj/Debug/net6.0/StringHandlingPipeling.Logic.Transformers.dll
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Transformers/obj/Debug/net6.0/refint/StringHandlingPipeling.Logic.Transformers.dll
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Transformers/obj/Debug/net6.0/StringHandlingPipeling.Logic.Transformers.pdb
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Transformers/obj/Debug/net6.0/ref/StringHandlingPipeling.Logic.Transformers.dll

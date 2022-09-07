@@ -1,0 +1,15 @@
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Core/obj/Debug/net6.0/Logic.Core.csproj.AssemblyReference.cache
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Core/obj/Debug/net6.0/Logic.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Core/obj/Debug/net6.0/Logic.Core.AssemblyInfoInputs.cache
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Core/obj/Debug/net6.0/Logic.Core.AssemblyInfo.cs
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Core/obj/Debug/net6.0/Logic.Core.csproj.CoreCompileInputs.cache
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Core/bin/Debug/net6.0/StringHandlingPipeling.Logic.Core.deps.json
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Core/bin/Debug/net6.0/StringHandlingPipeling.Logic.Core.dll
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Core/bin/Debug/net6.0/StringHandlingPipeling.Logic.Core.pdb
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Core/bin/Debug/net6.0/StringHandlingPipeling.Logic.Common.dll
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Core/bin/Debug/net6.0/StringHandlingPipeling.Logic.Common.pdb
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Core/obj/Debug/net6.0/Logic.Core.csproj.CopyComplete
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Core/obj/Debug/net6.0/StringHandlingPipeling.Logic.Core.dll
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Core/obj/Debug/net6.0/refint/StringHandlingPipeling.Logic.Core.dll
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Core/obj/Debug/net6.0/StringHandlingPipeling.Logic.Core.pdb
+/Users/Timi/dev/onboarding/string-handling-pipeline/Logic/Logic.Core/obj/Debug/net6.0/ref/StringHandlingPipeling.Logic.Core.dll
