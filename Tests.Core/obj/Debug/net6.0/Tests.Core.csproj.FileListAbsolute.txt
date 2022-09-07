@@ -1,0 +1,6 @@
+/Users/Timi/dev/onboarding/string-handling-pipeline/Tests.Core/bin/Debug/net6.0/CoverletSourceRootsMapping
+/Users/Timi/dev/onboarding/string-handling-pipeline/Tests.Core/obj/Debug/net6.0/Tests.Core.csproj.AssemblyReference.cache
+/Users/Timi/dev/onboarding/string-handling-pipeline/Tests.Core/obj/Debug/net6.0/Tests.Core.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Timi/dev/onboarding/string-handling-pipeline/Tests.Core/obj/Debug/net6.0/Tests.Core.AssemblyInfoInputs.cache
+/Users/Timi/dev/onboarding/string-handling-pipeline/Tests.Core/obj/Debug/net6.0/Tests.Core.AssemblyInfo.cs
+/Users/Timi/dev/onboarding/string-handling-pipeline/Tests.Core/obj/Debug/net6.0/Tests.Core.csproj.CoreCompileInputs.cache
