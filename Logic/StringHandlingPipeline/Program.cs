@@ -9,7 +9,7 @@ namespace devdeer.StringHandlingPipeline.Ui.StringHandlinePipeline
     {
         #region constants
 
-        private static readonly List<int> _transformIDs = new();
+        private static readonly List<int> TransformIDs = new();
 
         #endregion
 
@@ -33,25 +33,28 @@ namespace devdeer.StringHandlingPipeline.Ui.StringHandlinePipeline
             }
             try
             {
-                while (Console.ReadKey() != ConsoleKey.X)
+                var input = Console.ReadKey(true);
                 {
-                    switch (Console.ReadKey())
+                    while (input.Key != ConsoleKey.X)
                     {
-                        case ConsoleKey.D1:
-                            _transformIDs.Add(1);
-                            break;
-                        case ConsoleKey.D2:
-                            _transformIDs.Add(2);
-                            break;
-                        case ConsoleKey.D3:
-                            _transformIDs.Add(3);
-                            break;
-                        case ConsoleKey.D4:
-                            _transformIDs.Add(4);
-                            break;
-                        case ConsoleKey.D5:
-                            _transformIDs.Add(5);
-                            break;
+                        switch (input.Key)
+                        {
+                            case ConsoleKey.D1:
+                                TransformIDs.Add(1);
+                                break;
+                            case ConsoleKey.D2:
+                                TransformIDs.Add(2);
+                                break;
+                            case ConsoleKey.D3:
+                                TransformIDs.Add(3);
+                                break;
+                            case ConsoleKey.D4:
+                                TransformIDs.Add(4);
+                                break;
+                            case ConsoleKey.D5:
+                                TransformIDs.Add(5);
+                                break;
+                        }
                     }
                 }
             }
