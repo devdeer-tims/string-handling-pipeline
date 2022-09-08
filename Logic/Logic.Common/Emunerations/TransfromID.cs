@@ -10,9 +10,9 @@ namespace devdeer.StringHandlingPipeline.Logic.Common.Emunerations
     public enum TransfromId
     {
         Lower = 1,
-        Revert = 2,
-        Upper = 4,
-        Remove = 8,
-        Replace = 16
+        Upper = 2,
+        Reverse = 3,
+        Remove = 4,
+        Replace = 5
     }
 }

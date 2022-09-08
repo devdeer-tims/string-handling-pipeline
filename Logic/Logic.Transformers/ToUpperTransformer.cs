@@ -11,17 +11,18 @@ namespace devdeer.StringHandlingPipeline.Logic.Transformers
     /// </summary>
     public class ToUpperTransformer : BaseTransformer
     {
+        internal ToUpperTransformer(string message) : base(message)
+        {
+        }
         #region methods
 
         /// <summary>
-        /// Transforms the givin message to all uppercase letters.
+        /// Transforms the given message to all uppercase letters.
         /// </summary>
         /// <param name="message">The message you want to transform.</param>
-        /// <param name="transformationIDs">List of remaining Transformers for the <paramref name="message" />.</param>
-        protected override void InternalTransform(string message, List<int> transformationIDs)
+        protected void InternalTransform(string message)
         {
             CurrentMessage = message.ToUpper();
-            transformationIDs.Remove(0);
         }
 
         #endregion

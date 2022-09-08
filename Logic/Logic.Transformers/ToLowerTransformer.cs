@@ -1,7 +1,6 @@
 namespace devdeer.StringHandlingPipeline.Logic.Transformers
 {
     using System;
-    using System.Collections.Generic;
     using System.Linq;
 
     using Core.BaseTypes;
@@ -11,17 +10,23 @@ namespace devdeer.StringHandlingPipeline.Logic.Transformers
     /// </summary>
     public class ToLowerTransformer : BaseTransformer
     {
+        #region constructors and destructors
+
+        internal ToLowerTransformer(string message) : base(message)
+        {
+        }
+
+        #endregion
+
         #region methods
 
         /// <summary>
-        /// Transforms the givin message to all lowercase letters.
+        /// Transforms the given message to all lowercase letters.
         /// </summary>
         /// <param name="message">The message you want to transform.</param>
-        /// <param name="transformationIDs">List of remaining Transformers for the <paramref name="message" />.</param>
-        protected override void InternalTransform(string message, List<int> transformationIDs)
+        protected void InternalTransform(string message)
         {
             CurrentMessage = message.ToLower();
-            transformationIDs.Remove(0);
         }
 
         #endregion
