@@ -4,6 +4,7 @@ namespace devdeer.StringHandlingPipeline.Ui.StringHandlinePipeline
     using System.Collections.Generic;
     using System.Data;
     using System.Linq;
+    
 
     public class Program
     {
@@ -19,6 +20,7 @@ namespace devdeer.StringHandlingPipeline.Ui.StringHandlinePipeline
         {
             ShowMenu();
             GetUserInput();
+//            var x = new TransformerContext().ToLowerTransformer.CurrentMessage;
         }
 
         private static void GetUserInput()
@@ -69,14 +71,16 @@ namespace devdeer.StringHandlingPipeline.Ui.StringHandlinePipeline
         {
             Console.WriteLine("String Handling Pipeline 0.1 - work in progress");
             Console.WriteLine("Put in a message you want to transform operations on.");
-            Console.WriteLine("-----------------------------------------------------------------------------");
+            Console.WriteLine(
+                "----------------------------------------------------------------------------------------------------------");
             Console.WriteLine("The following operations are available:");
             Console.WriteLine("1 - Turn the message into all lowercase letters.");
             Console.WriteLine("2 - Turn the message into all uppercase letters.");
             Console.WriteLine("3 - Reverse the message.");
             Console.WriteLine("4 - Replace a character from the message with a character of your choice.");
             Console.WriteLine("5 - Remove a character of your choice from the message.");
-            Console.WriteLine("-----------------------------------------------------------------------------");
+            Console.WriteLine(
+                "----------------------------------------------------------------------------------------------------------");
             Console.WriteLine("An example input could look like this:");
             Console.WriteLine("ThisIsTheMessageIWantToPerformTransformOperationsOn <Press Enter>");
             Console.WriteLine(
