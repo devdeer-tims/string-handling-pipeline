@@ -1,0 +1,35 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=1fd4ca3d_002Da13e_002D4dc9_002D8a61_002Dd8782cf0d95d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckTransformerForMessageStringTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::DCB220E4-7D6C-4DF5-897B-F970C361CAEC::net6.0::devdeer.StringHandlingPipeline.Tests.Core.TransformerTests.CheckTransformerForMessageStringTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=2e781059_002D8226_002D43ca_002Daf64_002D286c6f2d5783/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckTransformerForMessageStringTest #5" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::DCB220E4-7D6C-4DF5-897B-F970C361CAEC::net6.0::devdeer.StringHandlingPipeline.Tests.Core.TransformerTests.CheckTransformerForMessageStringTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=3aded8f7_002D9323_002D4453_002Daed5_002D87176e670e89/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckTransformerForMessageStringTest #3" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::DCB220E4-7D6C-4DF5-897B-F970C361CAEC::net6.0::devdeer.StringHandlingPipeline.Tests.Core.TransformerTests.CheckTransformerForMessageStringTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=9861c806_002D665b_002D476e_002D9851_002Db07a3da8f76d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckTransformerForMessageStringTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::DCB220E4-7D6C-4DF5-897B-F970C361CAEC::net6.0::devdeer.StringHandlingPipeline.Tests.Core.TransformerTests.CheckTransformerForMessageStringTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=bdb46c8d_002D909d_002D494c_002D8ce5_002D457c5066566d/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="CheckTransformerForMessageStringTest #4" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;TestAncestor&gt;
+    &lt;TestId&gt;NUnit3x::DCB220E4-7D6C-4DF5-897B-F970C361CAEC::net6.0::devdeer.StringHandlingPipeline.Tests.Core.TransformerTests.CheckTransformerForMessageStringTest&lt;/TestId&gt;
+  &lt;/TestAncestor&gt;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=e3f88617_002D357d_002D4f46_002D9300_002D71aa5f19cbc0/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="Session" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;
+  &lt;And&gt;
+    &lt;TestAncestor&gt;
+      &lt;TestId&gt;NUnit3x::DCB220E4-7D6C-4DF5-897B-F970C361CAEC::net6.0::devdeer.StringHandlingPipeline.Tests.Core.TransformerTests.CheckTransformerForMessageStringTest&lt;/TestId&gt;
+    &lt;/TestAncestor&gt;
+    &lt;Project Location="/Users/Timi/dev/onboarding/string-handling-pipeline/Tests.Core" Presentation="&amp;lt;Tests&amp;gt;\&amp;lt;Tests.Core&amp;gt;" /&gt;
+    &lt;Namespace&gt;devdeer.StringHandlingPipeline.Tests.Core&lt;/Namespace&gt;
+  &lt;/And&gt;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>

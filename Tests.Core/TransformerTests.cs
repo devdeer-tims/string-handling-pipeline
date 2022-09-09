@@ -1,7 +1,6 @@
 namespace devdeer.StringHandlingPipeline.Tests.Core
 {
     using System;
-    using System.Collections.Generic;
     using System.Linq;
 
     using Logic.Core.BaseTypes;
@@ -41,7 +40,7 @@ namespace devdeer.StringHandlingPipeline.Tests.Core
             string? resultMessage = null;
             var transformer = new TestTransformer(m => resultMessage = m);
             // act
-            transformer.Transform("ThisIsATestString", new List<int>(1, 4, 2, 8));
+            transformer.Transform("ThisIsATestString");
             // assert
             Assert.NotNull(resultMessage);
             Assert.That(resultMessage, Contains.Substring("ThisIsATestString"));

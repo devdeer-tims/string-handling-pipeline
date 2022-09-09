@@ -13,7 +13,7 @@ namespace devdeer.StringHandlingPipeline.Tests.Core
     {
         #region constructors and destructors
 
-        public TestTransformer(string testCallback)
+        public TestTransformer(string testCallback) : base(currentMessage:testCallback)
         {
             TestCallback = testCallback;
         }
@@ -22,10 +22,9 @@ namespace devdeer.StringHandlingPipeline.Tests.Core
 
         #region methods
 
-        protected override void InternalTransform(string message, List<int> transformationIDs)
+        protected void InternalTransform(string message)
         {
             TestCallback = message;
-            transformationIDs.Remove(0);
         }
 
         #endregion
