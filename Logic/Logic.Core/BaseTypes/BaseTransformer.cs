@@ -8,7 +8,7 @@ namespace devdeer.StringHandlingPipeline.Logic.Core.BaseTypes
     /// <summary>
     /// Abstract base class for all Transformers.
     /// </summary>
-    public class BaseTransformer : ITransformer
+    public abstract class BaseTransformer : ITransformer
     {
         #region constructors and destructors
 

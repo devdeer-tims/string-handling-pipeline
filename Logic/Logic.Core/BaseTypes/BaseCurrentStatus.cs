@@ -3,9 +3,7 @@ namespace devdeer.StringHandlingPipeline.Logic.Core.BaseTypes
     using System;
     using System.Collections.Generic;
     using System.Linq;
-    using System.Security.Cryptography;
 
-    using Common.Emunerations;
     using Common.Interfaces;
 
     /// <summary>
@@ -15,50 +13,53 @@ namespace devdeer.StringHandlingPipeline.Logic.Core.BaseTypes
     {
         #region constructors and destructors
 
-        public BaseCurrentStatus(List<int> transformIDs) : base()
+        public BaseCurrentStatus(List<int> transformIDs, string message) : base(message)
         {
             TransformIDs = transformIDs;
         }
 
         #endregion
-        
-        
-
-        public void DecideTransformation(TransfromId)
-        {
-            var x = new Transformer
-            while (TransformIDs != null)
-            {
-                if (TransformIDs[0] == 1){
-                    
-                    TransformIDs.Remove(0);
-                }
-                if (TransformIDs[1] == 2)
-                {
-
-                    TransformIDs.Remove(0);
-                }
-                if (TransformIDs[2] == 3)
-                {
-
-                    TransformIDs.Remove(0);
-                }
-                if (TransformIDs[3] == 4)
-                {
-
-                    TransformIDs.Remove(0);
-                }
-                if (TransformIDs[4] == 5)
-                {
-
-                    TransformIDs.Remove(0);
-                }
-            }
-        }
 
         #region explicit interfaces
 
         public List<int> TransformIDs { get; }
+
+        #endregion
+
+        #region methods
+
+        public void DecideTransformation(TransfromIDs)
+        {
+            //   var x = new Transformer
+            while (TransformIDs != null)
+            {
+                if (TransformIDs[0] == 1)
+                {
+                    // somehow we need to reference the transformer here
+                    TransformIDs.Remove(0);
+                }
+                if (TransformIDs[1] == 2)
+                {
+                    // here
+                    TransformIDs.Remove(0);
+                }
+                if (TransformIDs[2] == 3)
+                {
+                    // here
+                    TransformIDs.Remove(0);
+                }
+                if (TransformIDs[3] == 4)
+                {
+                    // here
+                    TransformIDs.Remove(0);
+                }
+                if (TransformIDs[4] == 5)
+                {
+                    // and here   
+                    TransformIDs.Remove(0);
+                }
+            }
+        }
 
         #endregion
     }
